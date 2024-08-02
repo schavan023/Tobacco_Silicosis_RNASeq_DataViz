@@ -52,5 +52,4 @@ Performed using `enrichKEGG` to identify significant biological pathways in the 
 The study enhances our understanding of the pulmonary effects of CS and TS exposure and provides insights into the potential health risks associated with these exposures.
 
 ## Publication from which sequence data was used. 
-https://academic.oup.com/toxsci/article/178/2/375/5911641
 Tina M Sager, Christina M Umbright, Gul Mehnaz Mustafa, Naveena Yanamala, Howard D Leonard, Walter G McKinney, Michael L Kashon, Pius Joseph, Tobacco Smoke Exposure Exacerbated Crystalline Silica-Induced Lung Toxicity in Rats, Toxicological Sciences, Volume 178, Issue 2, December 2020, Pages 375–390, https://doi.org/10.1093/toxsci/kfaa146
